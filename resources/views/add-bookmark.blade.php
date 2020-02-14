@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta id="csrf" name="csrf-token" content="{{ csrf_token() }}">
         <title>Laravel</title>
 
         <!-- Fonts -->
@@ -41,45 +41,7 @@
         <div class="row">
         
             
-                <h1 class="col-md-8">Edmonton Journal</h1>
-                <div class="col-md-2">
-                    {{ Form::open() }}
-                        <?php echo Form::button('<i class="fa fa-refresh"></i>  Update Stories', ['class' => 'btn btn-large btn-primary', 'type' => 'submit']);?>
-                    {{ Form::close() }}
-                </div>
-                <div class="col-md-2">
-                    <a class="btn btn-secondary" href="http://edmontonjournal.com" target="_blank"><i class="fa fa-external-link"></i> Visit Site</a>
-                </div>
-               
-       
-        
-            </div>
-           @foreach ($all_items as $item)
-            <article class="story--item col-md-12"> 
-                <div class="row">
-                    <div class="col-md-3">
-                        <img src="{{ $item->thumbnail }}"/>
-                    </div>
-                    <div class="col-md-9">
-                        <a target="_blank" href="{{ $item->link }}"><h2>{{ $item->title }} </h2></a>
-                        <p>{{$item->date}} | {{ $item->author }}</p>
-                    
-                        <p>{{$item->body}} </p>
-                    </div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-3 offset-md-9">
-                        <a target="_blank" class="btn btn-info" href="{{ $item->link }}">Read this</a>  
-                        <a class="btn btn-warning" href="#">Copy Link</a>  
-                        {{ Form::open() }}
-                            <?php echo Form::button('<i class="fa fa-bookmark"></i>', ['class' => 'btn btn-danger', 'type' => 'submit', 'name'=>'bookmark']);?>
-                        {{ Form::close() }}
-                    </div>
-                </div>
-        </article>
-        @endforeach
-        </div>
+             
     </div>
 
 

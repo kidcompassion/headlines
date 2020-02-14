@@ -54,83 +54,11 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
     
         
     
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:11:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:28:"METRO NEWS | NEWS | EDMONTON";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"http://www.metronews.ca/feeds.articles.news.edmonton.rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:13:"NEWS EDMONTON";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-ca";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Fri, 5 Jan 2018 16:10:01 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Fri, 5 Jan 2018 16:10:01 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:47:"Copyright 2001-2018, Free Daily News Group Inc.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:19:"http://metronews.ca";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:2:"60";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:42:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:11:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:28:"METRO NEWS | NEWS | EDMONTON";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"http://www.metronews.ca/feeds.articles.news.edmonton.rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:13:"NEWS EDMONTON";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-ca";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 19 Jan 2018 00:53:45 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 19 Jan 2018 00:53:45 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:47:"Copyright 2001-2018, Free Daily News Group Inc.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:19:"http://metronews.ca";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:2:"60";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:42:"
           
           
           
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:28:"METRO NEWS | NEWS | EDMONTON";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:69:"http://www.metronews.ca/etc/designs/thestar/images/metronews-logo.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"http://www.metronews.ca/feeds.articles.news.edmonton.rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"Mechanical issues, weather not factors in fatal Alberta air-show crash: report";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:130:"http://www.metronews.ca/news/edmonton/2018/01/05/mechanical-issues-weather-not-factors-in-fatal-alberta-air-show-crash-report.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/7a4f9514-e169-46a1-970b-231388d0775e";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Fri, 5 Jan 2018 13:29:54 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:191:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/05/mechanical-issues-weather-not-factors-in-fatal-alberta-air-show-crash-report/EDM500447285.jpg.size.xxlarge.original.jpg"><br/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
-            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:174:"http://www.metronews.ca/content/dam/thestar/2018/01/05/mechanical-issues-weather-not-factors-in-fatal-alberta-air-show-crash-report/EDM500447285.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:173:"http://www.metronews.ca/content/dam/thestar/2018/01/05/mechanical-issues-weather-not-factors-in-fatal-alberta-air-show-crash-report/EDM500447285.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:345:"A T28-B Trojan aircraft which crashed at the Cold Lake Air Show on July 17, 2016 is shown in a handout photo. Mechanical issues and weather were not factors in the fatal crash of a private single-engine plane in front of horrified spectators at an air show in Alberta. THE CANADIAN PRESS/HO-Transportation Safety Board of Canada MANDATORY CREDIT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"Mechanical issues, weather not factors in fatal Alberta air-show crash: report";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:1;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Aurora acquires stake in medical pot company The Green Organic Dutchman Holdings";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:134:"http://www.metronews.ca/news/edmonton/2018/01/05/aurora-acquires-stake-in-medical-pot-company-the-green-organic-dutchman-holdings.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/0b686284-2bd7-4d02-9235-41acdf9cc3d4";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Fri, 5 Jan 2018 08:33:30 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:195:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/05/aurora-acquires-stake-in-medical-pot-company-the-green-organic-dutchman-holdings/CPT103447256.jpg.size.xxlarge.original.jpg"><br/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
-            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:178:"http://www.metronews.ca/content/dam/thestar/2018/01/05/aurora-acquires-stake-in-medical-pot-company-the-green-organic-dutchman-holdings/CPT103447256.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:177:"http://www.metronews.ca/content/dam/thestar/2018/01/05/aurora-acquires-stake-in-medical-pot-company-the-green-organic-dutchman-holdings/CPT103447256.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:304:"Cannabis seedlings at the new Aurora Cannabis facility Friday, November 24, 2017 in Montreal. Aurora Cannabis Inc. has signed a deal to acquire a stake in The Green Organic Dutchman Holdings Ltd. (TGOD) and agreed to a supply agreement with the medical marijuana producer. THE CANADIAN PRESS/Ryan Remiorz";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Aurora acquires stake in medical pot company The Green Organic Dutchman Holdings";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:2;a:6:{s:4:"data";s:190:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:28:"METRO NEWS | NEWS | EDMONTON";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:69:"http://www.metronews.ca/etc/designs/thestar/images/metronews-logo.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:56:"http://www.metronews.ca/feeds.articles.news.edmonton.rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:190:"
           
           
           
@@ -156,7 +84,61 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
 
 
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Edmonton Humane Society wagging its tail, judge grants it ownership of seized dogs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:135:"http://www.metronews.ca/news/edmonton/2018/01/04/edmonton-humane-society-wagging-its-tail-judge-grants-it-ownership-of-seized-dogs.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/d6bee4aa-f4bf-47a9-bf7c-def044a1addd";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Jan 2018 21:09:53 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Correctional Service fires 2 more staff at Edmonton prison after bullying probe";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:133:"http://www.metronews.ca/news/edmonton/2018/01/18/correctional-service-fires-2-more-staff-at-edmonton-prison-after-bullying-probe.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/55b691e6-ee9c-4f21-939b-d34224786130";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 18 Jan 2018 22:38:20 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
+            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:190:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"Astronomer says fireball that lit up the Alberta sky on Wednesday was a meteor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:132:"http://www.metronews.ca/news/edmonton/2018/01/18/astronomer-says-fireball-that-lit-up-the-alberta-sky-on-wednesday-was-a-meteor.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/537d334a-1e45-4b7a-ad90-c7e45119449b";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 18 Jan 2018 19:55:22 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
+            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:190:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Alberta naloxone kits may not contain life-saving anti-opioid overdose drug ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:129:"http://www.metronews.ca/news/edmonton/2018/01/18/alberta-naloxone-kits-may-not-contain-life-saving-anti-opioid-overdose-drug.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/37ab9aa4-1514-4c02-9736-8828314c9aae";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 18 Jan 2018 18:13:27 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
             Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:218:"
           
           
@@ -185,15 +167,60 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
 
 
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"Alberta to hold public sessions to gather information for &#039;60s Scoop apology";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:129:"http://www.metronews.ca/news/edmonton/2018/01/04/alberta-to-hold-public-sessions-to-gather-information-for-60s-scoop-apology.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/bed6ec05-d25c-439a-a6d0-e8707a172c33";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Jan 2018 17:36:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:281:"<img src="http://www.metronews.ca/content/dam/thestar/uploads/2018/1/4/60sscoop-010418.jpg.size.xxlarge.original.jpg"><br/>Children's Services Minister Danielle Larivee says the government will hold six sessions around the province starting later this month to hear from survivors.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
-            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Albertans urged to check naloxone kits after some were distributed with missing vials ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:134:"http://www.metronews.ca/news/edmonton/2018/01/18/albertans-urged-to-check-naloxone-kits-due-to-distribution-of-kits-missing-vials.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"ac77f4f7-a6ae-4562-9627-4e66bb4a19a6";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 18 Jan 2018 17:40:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:281:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/18/albertans-urged-to-check-naloxone-kits-due-to-distribution-of-kits-missing-vials/story-320960-422361-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Each kit should contain two or three vials of naloxone, AHS says";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:32:"
+            Omar Mosleh - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
 	              
 	              
 	              
   				  
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:106:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/4/60sscoop-010418.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:105:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/4/60sscoop-010418.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:242:"A woman is comforted at a Sixties Scoop gathering before a provincial apology. Sixty Scoop adoptees and supporters gather at the Manitoba Legislature to hear an apology from Manitoba Premier Greg Selinger in Winnipeg, Thursday, June 18, 2015.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Alberta to hold public sessions to gather information for '60s Scoop apology";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:23:"The Canadian Press File";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"John Woods";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:23:"The Canadian Press File";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:4;a:6:{s:4:"data";s:218:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:200:"http://www.metronews.ca/content/dam/thestar/2018/01/18/albertans-urged-to-check-naloxone-kits-due-to-distribution-of-kits-missing-vials/story-320960-422361-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:199:"http://www.metronews.ca/content/dam/thestar/2018/01/18/albertans-urged-to-check-naloxone-kits-due-to-distribution-of-kits-missing-vials/story-320960-422361-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:284:"Naloxone can temporarily reverse an opioid overdose, and these naloxone kits are available for free at Alberta pharmacies. Each naloxone kit should include two or three vials of naloxone (0.4 mg/ml), two or three syringes/needles, alcohol swabs, gloves, a breathing mask and brochure.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Albertans urged to check naloxone kits after some were distributed with missing vials ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:17:"Calgary Freelance";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:17:"Calgary Freelance";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:4;a:6:{s:4:"data";s:246:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"New research draws link between fracking and earthquakes in Fox Creek area";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:128:"http://www.metronews.ca/news/edmonton/2018/01/18/new-research-draws-link-between-fracking-and-earthquakes-in-fox-creek-area.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"0ed5a55e-564a-41c4-bb35-96a3bdd5bfaa";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 18 Jan 2018 11:47:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:385:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/18/new-research-draws-link-between-fracking-and-earthquakes-in-fox-creek-area/story-320904-422046-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Fracking near areas with a susceptible fault line leads to more 'induced earthquakes', according to research from the Alberta Geological Survey and the University of Alberta.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:36:"
+            Lucy Haines - For Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:2:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:194:"http://www.metronews.ca/content/dam/thestar/2018/01/18/new-research-draws-link-between-fracking-and-earthquakes-in-fox-creek-area/story-320904-422046-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:193:"http://www.metronews.ca/content/dam/thestar/2018/01/18/new-research-draws-link-between-fracking-and-earthquakes-in-fox-creek-area/story-320904-422046-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:285:"While fracking isn’t new— happening routinely across the province and in the Fox Creek area since 2010— the first earthquakes in the concentrated area of the Duvernay Formation didn’t start until 2013. Since 2013, there has been a marked increase in earthquakes near Fox Creek.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"New research draws link between fracking and earthquakes in Fox Creek area";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:6:"ISTOCK";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:102:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/18/fracking-0.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:101:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/18/fracking-0.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:288:"The total number of earthquakes in Alberta per year from 1965 to present is shown as green histogram bars; earthquakes with a magnitude greater than 2.5 ML are shown with red. The blue line shows the number of seismic stations available for analyzing Alberta earthquakes for a given year.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"New research draws link between fracking and earthquakes in Fox Creek area";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:1:" ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:59:"ALBERTA'S ENERGY REGULATOR, AGS.AER.CA/ALBERTAS-EARTHQUAKES";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:1:" ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:5;a:6:{s:4:"data";s:218:"
           
           
           
@@ -221,7 +248,43 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
 
 
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Supertonk pulls his weight: Alberta couple spotlights skijoring behind horse ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:129:"http://www.metronews.ca/news/edmonton/2018/01/04/supertonk-pulls-his-weight-alberta-couple-spotlights-skijoring-behind-horse.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/d6d6600f-a01b-49e7-b3e9-90d6dcd4e4cd";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Jan 2018 13:06:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:278:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/04/supertonk-pulls-his-weight-alberta-couple-spotlights-skijoring-behind-horse/CPT118447077.jpg.size.xxlarge.original.jpg"><br/>The recreational winter sport's name comes from a Norwegian word that means ski-driving.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:50:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"‘Back in business’: Moratorium on wrestling will be lifted, Mayor Iveson confirms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:139:"http://www.metronews.ca/news/edmonton/2018/01/17/back-in-business-council-slated-to-lift-moratorium-on-wrestling-as-part-of-sports-ban.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"d9077336-285e-4372-878b-d3e4cc553c02";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 17 Jan 2018 21:16:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:320:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/17/back-in-business-council-to-lift-moratorium-on-wrestling/story-320885-421981-image-rendered.jpg.size.xxlarge.original.jpg"><br/>The official decision to lift the ban on combative sports and on athletes fighting overseas will be made next week, on Jan. 23.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:176:"http://www.metronews.ca/content/dam/thestar/2018/01/17/back-in-business-council-to-lift-moratorium-on-wrestling/story-320885-421981-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:175:"http://www.metronews.ca/content/dam/thestar/2018/01/17/back-in-business-council-to-lift-moratorium-on-wrestling/story-320885-421981-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:183:"Nathan “Nasty Nate Nixon” Spence is just one of several Edmonton-based wrestlers pleased the city is taking a second look at wrestling as part of a moratorium on combative sports.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"‘Back in business’: Moratorium on wrestling will be lifted, Mayor Iveson confirms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:9:"for metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"for metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:6;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Predator compensation program for ranchers helps conservation efforts: study";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:129:"http://www.metronews.ca/news/edmonton/2018/01/17/predator-compensation-program-for-ranchers-helps-conservation-efforts-study.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/f4c0db3a-3881-4503-bd79-10c8001570eb";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 17 Jan 2018 14:14:11 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:190:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/17/predator-compensation-program-for-ranchers-helps-conservation-efforts-study/CPT113449365.jpg.size.xxlarge.original.jpg"><br/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:50:"
             Colette Derworiz - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
 	              
 	              
@@ -229,7 +292,34 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
   				  
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:173:"http://www.metronews.ca/content/dam/thestar/2018/01/04/supertonk-pulls-his-weight-alberta-couple-spotlights-skijoring-behind-horse/CPT118447077.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:172:"http://www.metronews.ca/content/dam/thestar/2018/01/04/supertonk-pulls-his-weight-alberta-couple-spotlights-skijoring-behind-horse/CPT118447077.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:228:"Kelly Miller tries skijoring behind a miniature horse at Patty's Pony Place, north of Edmonton in this undated handout image. Miller and his wife, Patty Kramps, are hoping to let other skiers give it a try. THE CANADIAN PRESS/HO";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Supertonk pulls his weight: Alberta couple spotlights skijoring behind horse ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:5;a:6:{s:4:"data";s:218:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:173:"http://www.metronews.ca/content/dam/thestar/2018/01/17/predator-compensation-program-for-ranchers-helps-conservation-efforts-study/CPT113449365.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:172:"http://www.metronews.ca/content/dam/thestar/2018/01/17/predator-compensation-program-for-ranchers-helps-conservation-efforts-study/CPT113449365.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:470:"A grizzly bear and her cubs are shown in a handout photo. Researchers at the University of Alberta have been studying grizzly bears on private lands in Alberta. New research shows the province‚Äôs predator compensation program is helping to offset costs for ranchers when a cow or other livestock is killed by a large carnivore. As a result, it helps conservation efforts on private lands. THE CANADIAN PRESS/HO-University of Alberta-Spencer Rettler MANDATORY CREDIT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Predator compensation program for ranchers helps conservation efforts: study";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:7;a:6:{s:4:"data";s:190:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Two children seized after deadly drug allegedly found in Edmonton home";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:124:"http://www.metronews.ca/news/edmonton/2018/01/17/two-children-seized-after-deadly-drug-allegedly-found-in-edmonton-home.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/d71369d0-6bd1-4703-8e5b-455bfb39bfdb";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 17 Jan 2018 12:56:37 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
+            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:218:"
           
           
           
@@ -257,421 +347,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
 
 
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"&#039;Why not right here in Edmonton?&#039; Filipino chain sets sights on city";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:144:"http://www.metronews.ca/news/edmonton/2018/01/03/why-not-right-here-in-edmonton-wildly-popular-filipino-chain-has-plans-to-open-in-edmonton.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"a30c0422-1f2a-4446-9062-aeba059a1dc9";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Jan 2018 20:44:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:218:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/03/filipino-chain-sets-sights-on-city/story-319873-416060-image-rendered.jpg.size.xxlarge.original.jpg"><br/>The Winnipeg locations experienced huge success";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:32:"
-            Omar Mosleh - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:154:"http://www.metronews.ca/content/dam/thestar/2018/01/03/filipino-chain-sets-sights-on-city/story-319873-416060-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:153:"http://www.metronews.ca/content/dam/thestar/2018/01/03/filipino-chain-sets-sights-on-city/story-319873-416060-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:190:"What began from a two ice cream parlors in Manila in 1975, Jollibee has grown into the biggest fast-food company in the Philippines. It has plans to expand its Canadian presence to Edmonton.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"'Why not right here in Edmonton?' Filipino chain sets sights on city";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:15:"PhotoDesk Email";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:12:"Getty Images";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:15:"PhotoDesk Email";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:6;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"Off-highway vehicle trails threaten planned Alberta park: government study";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:127:"http://www.metronews.ca/news/edmonton/2018/01/03/off-highway-vehicle-trails-threaten-planned-alberta-park-government-study.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/206428dd-a11f-4d4d-9882-38eb86ef7ce5";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Jan 2018 13:56:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:216:"<img src="http://www.metronews.ca/content/dam/thestar/uploads/2018/1/3/screen-shot-2018-01-03-at-2-49-12-pm.png.size.xxlarge.original.png"><br/>A large park is planned for Alberta's southern Rocky Mountain foothills.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:43:"
-            Bob Weber - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:127:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/3/screen-shot-2018-01-03-at-2-49-12-pm.png.size.xxlarge.original.png";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:126:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/3/screen-shot-2018-01-03-at-2-49-12-pm.png.size.xsmall.original.png";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:117:"A file photos shows a view over the Vermillion Lakes to the Rockies on the Fenland Trail just outside Banff, Alberta.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"Off-highway vehicle trails threaten planned Alberta park: government study";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:13:"Rick McGinnis";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:13:"Rick McGinnis";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:7;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:90:"&#039;Everybody&#039;s talking about it&#039;: Alberta Beach residents awoken by loud bang";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:126:"http://www.metronews.ca/news/edmonton/2018/01/03/everybody-s-talking-about-it-alberta-beach-residents-awoken-by-loud-bang.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"61746007-4d2a-4556-a8e4-c707e8b8a7dc";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Jan 2018 13:45:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:307:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/03/everybody-s-talking-about-it-alberta-beach-residents-awoken-by-loud-bang/story-319808-415696-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Seismologists say 'icequake' responsible after cracks appeared in the ground early Tuesday morning";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
-            Kevin Maimann - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:192:"http://www.metronews.ca/content/dam/thestar/2018/01/03/everybody-s-talking-about-it-alberta-beach-residents-awoken-by-loud-bang/story-319808-415696-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:191:"http://www.metronews.ca/content/dam/thestar/2018/01/03/everybody-s-talking-about-it-alberta-beach-residents-awoken-by-loud-bang/story-319808-415696-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:50:"A detail of a seismograph showing earthquake data.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"'Everybody's talking about it': Alberta Beach residents awoken by loud bang";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:23:"Hamilton Spectator FILE";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"JOHN HAGEN";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:23:"Hamilton Spectator FILE";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:8;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Shy dogs to get their own space as part of new park project  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.metronews.ca/news/edmonton/2018/01/02/shy-dogs-to-get-their-own-space.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"cf99b38b-f645-494c-a616-b00188bb3137";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 20:45:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:223:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/02/shy-dogs-to-get-their-own-space/story-319439-413528-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Pilot program to be located at new Lauderdale Park site";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:25:"
-            Sarah Hoyles";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:151:"http://www.metronews.ca/content/dam/thestar/2018/01/02/shy-dogs-to-get-their-own-space/story-319439-413528-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:150:"http://www.metronews.ca/content/dam/thestar/2018/01/02/shy-dogs-to-get-their-own-space/story-319439-413528-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:106:"Amanda Brown and Izzy next to the new separated area for shy and or small dogs in the Lauderdale Dog Park.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Shy dogs to get their own space as part of new park project  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:9:"for metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"for metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:9;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"App that lets you buy clothing worn on TV lands Canadian students Hollywood deal";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:134:"http://www.metronews.ca/news/edmonton/2018/01/02/app-that-lets-you-buy-clothing-worn-on-tv-lands-u-of-a-students-a-hollywood-deal.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"1969d630-cbb1-4e28-a6d1-bc066285e69d";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 19:32:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:346:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/02/app-that-lets-you-buy-clothing-worn-on-tv-lands-canadian-students-hollywood-deal/story-319496-413822-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Nelo, a free app that allows you to buy clothing worn by actors on TV and in movies, has a tie-in with the movie Pitch Perfect 3.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
-            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:200:"http://www.metronews.ca/content/dam/thestar/2018/01/02/app-that-lets-you-buy-clothing-worn-on-tv-lands-canadian-students-hollywood-deal/story-319496-413822-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:199:"http://www.metronews.ca/content/dam/thestar/2018/01/02/app-that-lets-you-buy-clothing-worn-on-tv-lands-canadian-students-hollywood-deal/story-319496-413822-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:76:"Pavlo Malynin (left) and Hammad Jutt (right) have created a new fashion app.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"App that lets you buy clothing worn on TV lands Canadian students Hollywood deal";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:9:"For Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"For Metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:10;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"Edmonton&#039;s bike lanes help, but advocates say gender gap in cycling still exists";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:133:"http://www.metronews.ca/news/edmonton/2018/01/02/edmonton-s-bike-lanes-help-but-advocates-say-gender-gap-in-cycling-still-exists.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"b1572296-748f-467c-bb31-b6ff3f51f808";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 18:56:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:281:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/02/edmonton-s-bike-lanes-help-but-advocates-say-gender-gap-in-cycling-still-exists/story-317972-405142-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Bike culture and products mostly aimed at men, says female bikers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
-            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:199:"http://www.metronews.ca/content/dam/thestar/2018/01/02/edmonton-s-bike-lanes-help-but-advocates-say-gender-gap-in-cycling-still-exists/story-317972-405142-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:198:"http://www.metronews.ca/content/dam/thestar/2018/01/02/edmonton-s-bike-lanes-help-but-advocates-say-gender-gap-in-cycling-still-exists/story-317972-405142-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:47:"Molly MacDougall riding her bike in the winter.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Edmonton's bike lanes help, but advocates say gender gap in cycling still exists";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:16:"Metro Web Upload";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:16:"Metro Web Upload";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:11;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Police locate discarded gun in west Edmonton, charges pending against man";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:103:"http://www.metronews.ca/news/edmonton/2018/01/02/police-looking-for-discarded-gun-in-west-edmonton.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"cbc3329f-037e-4f84-9098-f887b5bf5164";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 17:51:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:263:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/02/police-looking-for-discarded-gun-in-west-edmonton/story-319732-415297-image-rendered.jpg.size.xxlarge.original.jpg"><br/>A man allegedly broke into a vehicle, then got locked in and shot his way out";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:35:"
-            Staff - Metro Edmonton";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:169:"http://www.metronews.ca/content/dam/thestar/2018/01/02/police-looking-for-discarded-gun-in-west-edmonton/story-319732-415297-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:168:"http://www.metronews.ca/content/dam/thestar/2018/01/02/police-looking-for-discarded-gun-in-west-edmonton/story-319732-415297-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Police locate discarded gun in west Edmonton, charges pending against man";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:12;a:6:{s:4:"data";s:190:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Police allege would-be thief shot his way out of vehicle when locks activated";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:131:"http://www.metronews.ca/news/edmonton/2018/01/02/police-allege-would-be-thief-shot-his-way-out-of-vehicle-when-locks-activated.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/3b4decb2-a215-4759-b993-9516ce66a635";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 17:46:23 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
-            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:83:"HIV Edmonton among organizations closed as burst pipes wreak havoc across the city ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:112:"http://www.metronews.ca/news/edmonton/2018/01/02/hiv-edmonton-closed-as-burst-pipes-wreak-havoc-in-edmonton.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"b53af7fd-3e5b-46b6-8602-204a1f0a0d5c";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 17:08:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:273:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/02/hiv-edmonton-closed-as-burst-pipes-wreak-havoc-in-edmonton/story-319724-415247-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Edmonton Fire Rescue was flooded with calls after cold snap ended Monday night";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
-            Kevin Maimann - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:178:"http://www.metronews.ca/content/dam/thestar/2018/01/02/hiv-edmonton-closed-as-burst-pipes-wreak-havoc-in-edmonton/story-319724-415247-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:177:"http://www.metronews.ca/content/dam/thestar/2018/01/02/hiv-edmonton-closed-as-burst-pipes-wreak-havoc-in-edmonton/story-319724-415247-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:94:"Water damaged carpets and drywall at HIV Edmonton after two pipes burst over the long weekend.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:83:"HIV Edmonton among organizations closed as burst pipes wreak havoc across the city ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:12:"HIV Edmonton";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:8:"Supplied";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"HIV Edmonton";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:14;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Edmonton police seeking help with homicide in city&#039;s south east";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:125:"http://www.metronews.ca/news/edmonton/2018/01/02/edmonton-police-seeking-help-with-suspicious-death-in-city-s-south-east.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"c147a49d-4299-4599-b084-f378198a7491";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 14:41:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:261:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/02/edmonton-police-seeking-help-with-suspicious-death-in-city-s-south-east/story-319706-415121-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Monday's death is the first suspicious death of 2018.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:32:"
-            Omar Mosleh - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:191:"http://www.metronews.ca/content/dam/thestar/2018/01/02/edmonton-police-seeking-help-with-suspicious-death-in-city-s-south-east/story-319706-415121-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:190:"http://www.metronews.ca/content/dam/thestar/2018/01/02/edmonton-police-seeking-help-with-suspicious-death-in-city-s-south-east/story-319706-415121-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:111:"Edmonton Police Service is seeking the public's assistance with a suspicious death they responded to on Monday.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"Edmonton police seeking help with homicide in city's south east";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"File photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:15;a:6:{s:4:"data";s:190:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Millar Western Forest Products acquires Spruceland Millworks for undisclosed sum";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:134:"http://www.metronews.ca/news/edmonton/2018/01/02/millar-western-forest-products-acquires-spruceland-millworks-for-undisclosed-sum.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/cee8c53a-18b5-4f2f-bebc-2adbdd3d92ee";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 2 Jan 2018 11:48:26 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
-            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"&#039;It’s been pretty funny&#039;: New Year’s baby was due for Christmas";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.metronews.ca/news/edmonton/2018/01/01/new-year-s-baby-was-due-for-christmas.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"ca82b497-471e-4eda-8800-5160e3ca2bd0";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Mon, 1 Jan 2018 22:40:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:215:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/01/new-year-s-baby-was-due-for-christmas/story-319653-414858-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Baby Wallace born on Jan. 1 at 12:05 a.m.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
-            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
-	              
-	              
-	              
-  				  
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:157:"http://www.metronews.ca/content/dam/thestar/2018/01/01/new-year-s-baby-was-due-for-christmas/story-319653-414858-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:156:"http://www.metronews.ca/content/dam/thestar/2018/01/01/new-year-s-baby-was-due-for-christmas/story-319653-414858-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:112:"Wallace James Ogletree is the first baby of 2018, born on Jan. 1, at 12:05 a.m, to Bryan and Keri-Lynn Ogletree.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"'It’s been pretty funny': New Year’s baby was due for Christmas";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:5:"Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:6:"SYSTEM";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:5:"Metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:17;a:6:{s:4:"data";s:218:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-        
-        
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-
-
-
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Indoor skatepark hopes to provide year-round space for Edmonton Region";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.metronews.ca/news/edmonton/2018/01/01/indoor-skatepark-hopes-to-provide-year-round-space.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"1f30fcda-0a6f-4a32-86b4-c06423b7851d";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Mon, 1 Jan 2018 22:40:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:205:"<img src="http://www.metronews.ca/content/dam/thestar/uploads/2018/1/2/img-0131-0.jpg.size.xxlarge.original.jpg"><br/>Despite the number of outdoor parks in Edmonton, fans say indoor facilities are limited";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:37:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:94:"Inaugural Chinatown Dining Tour encourages people to &#039;eat through the neighbourhood&#039;";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:136:"http://www.metronews.ca/news/edmonton/2018/01/16/inaugural-chinatown-dining-tour-encourages-people-to-eat-through-the-neighbourhood.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"6dabb457-117c-4539-a52c-8936e769b5d3";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Jan 2018 21:12:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:303:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/16/inaugural-chinatown-dining-tour-encourages-people-to-eat-through-the-neighbourhood/story-320768-421258-image-rendered.jpg.size.xxlarge.original.jpg"><br/>The week-long event was created after a historical tour of the area saw huge success";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:37:"
             Sarah Hoyles - For Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
 	              
 	              
@@ -679,7 +355,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
   				  
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:101:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/2/img-0131-0.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:100:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/2/img-0131-0.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:125:"Chris Hartwell, Matt Mastrovito and Marcus Zuidhof are behind the new Boneyard Skatepark, opening in Sherwood Park this year.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Indoor skatepark hopes to provide year-round space for Edmonton Region";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:18:"Boneyard Skatepark";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Contributed";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"Boneyard Skatepark";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:18;a:6:{s:4:"data";s:218:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:202:"http://www.metronews.ca/content/dam/thestar/2018/01/16/inaugural-chinatown-dining-tour-encourages-people-to-eat-through-the-neighbourhood/story-320768-421258-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:201:"http://www.metronews.ca/content/dam/thestar/2018/01/16/inaugural-chinatown-dining-tour-encourages-people-to-eat-through-the-neighbourhood/story-320768-421258-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:196:"Sharon Yeo, organizer of the first Chinatown Dining Week, and Tony Young, owner of 'Cua Hua Gui Lin Noodle House', are excited to welcome Edmontonians to the neighbourhood for the inaugural event.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"Inaugural Chinatown Dining Tour encourages people to 'eat through the neighbourhood'";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:9:"For Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"For Metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:9;a:6:{s:4:"data";s:218:"
           
           
           
@@ -707,7 +383,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
 
 
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:47:"LRT construction to close 102 Avenue until 2020";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:125:"http://www.metronews.ca/news/edmonton/2018/01/01/valley-line-lrt-construction-to-close-102-avenue-downtown-for-two-years.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"2ec1eae2-6658-4374-8d05-b73ed0e74b6c";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Mon, 1 Jan 2018 12:54:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:201:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/01/102-avenue/story-319499-414508-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Routes like 100, 101 and 102 to remain open to traffic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Closed Edmonton street makes way for accidental street hockey, for now";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:123:"http://www.metronews.ca/news/edmonton/2018/01/16/closed-edmonton-street-makes-way-for-accidental-street-hockey-for-now.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"61989f80-1eea-4e19-bb4a-f398857118fe";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Jan 2018 20:49:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:253:"<img src="http://www.metronews.ca/content/dam/thestar/uploads/2018/1/17/edm-0119-streethockey-kevintuong-7.jpg.size.xxlarge.original.jpg"><br/>A group of downtown locals have taken advantage of a closed 102 Avenue and started playing street hockey there";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
             Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
 	              
 	              
@@ -715,7 +391,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
   				  
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:130:"http://www.metronews.ca/content/dam/thestar/2018/01/01/102-avenue/story-319499-414508-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:129:"http://www.metronews.ca/content/dam/thestar/2018/01/01/102-avenue/story-319499-414508-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:92:"Valley Line LRT construction to close 102 Avenue from 96 Street to 103 Street for two years.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:47:"LRT construction to close 102 Avenue until 2020";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:5:"Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Kashmala Fida";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:5:"Metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:19;a:6:{s:4:"data";s:190:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:126:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/17/edm-0119-streethockey-kevintuong-7.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:125:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/17/edm-0119-streethockey-kevintuong-7.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:158:"Kyle Witiw (red sweater) and friends saw the closure of 102 Avenue for LRT construction as an opportunity to start playing street hockey in downtown Edmonton.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Closed Edmonton street makes way for accidental street hockey, for now";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:18:"Edmonton Freelance";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"Edmonton Freelance";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:10;a:6:{s:4:"data";s:218:"
           
           
           
@@ -729,6 +405,8 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
         
         
+	            
+	            
 
         
         
@@ -741,5 +419,341 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
 
 
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Alberta issues alert, natural gas outages in north during extreme cold snap  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:130:"http://www.metronews.ca/news/edmonton/2017/12/29/alberta-issues-alert-natural-gas-outages-reported-in-some-homes-in-the-north.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/6cf3c2ba-4da0-4b05-a67d-36d03a13ab7b";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 29 Dec 2017 21:23:42 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:45:"
-            John Cotter - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:56:"http://www.metronews.ca/feeds.articles.news.edmonton.rss";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:17:{s:12:"content-type";s:22:"text/xml;charset=utf-8";s:14:"content-length";s:4:"6088";s:10:"connection";s:10:"keep-alive";s:13:"accept-ranges";s:5:"bytes";s:13:"cache-control";s:38:"max-age=1200, private, must-revalidate";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Fri, 05 Jan 2018 21:09:59 GMT";s:4:"etag";s:31:"W/"305c6307-8746-5620ddf220757"";s:7:"expires";s:29:"Fri, 05 Jan 2018 21:29:59 GMT";s:13:"last-modified";s:29:"Fri, 05 Jan 2018 21:10:01 GMT";s:6:"server";s:22:"Apache/2.2.31 (Amazon)";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:4:"vary";s:15:"Accept-Encoding";s:3:"age";s:3:"698";s:7:"x-cache";s:19:"Hit from cloudfront";s:3:"via";s:64:"1.1 85359b00dd31672f055ad3cc68c51eff.cloudfront.net (CloudFront)";s:11:"x-amz-cf-id";s:56:"dpJswoOvMMBU02Xq3pTh0z3gtNVZcK8M0HmeWh9jvKuKwH16dhuSig==";}s:5:"build";s:14:"20171112020334";}
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"Committee considering scrapping liquor store minimum distances for downtown";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:127:"http://www.metronews.ca/news/edmonton/2018/01/16/council-considering-scrapping-liquor-store-minimum-distances-for-downtown.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"9cc29be5-d166-4feb-be4f-c4467ac694bc";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Jan 2018 19:06:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:314:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/16/committee-considering-scrapping-liquor-store-minimum-distances-for-downtown/story-320742-421312-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Currently new liquor stores are not allowed to open within 500 metres of an existing store in Edmonton";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:195:"http://www.metronews.ca/content/dam/thestar/2018/01/16/committee-considering-scrapping-liquor-store-minimum-distances-for-downtown/story-320742-421312-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:194:"http://www.metronews.ca/content/dam/thestar/2018/01/16/committee-considering-scrapping-liquor-store-minimum-distances-for-downtown/story-320742-421312-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:83:"deVine Wines is against the city changing the 500m distance rule for liquor stores.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"Committee considering scrapping liquor store minimum distances for downtown";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:18:"Edmonton Freelance";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"Edmonton Freelance";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:11;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:101:"&#039;An attitude out of the 1950s&#039;: Alberta MLA reproached for comments about Indigenous people";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:126:"http://www.metronews.ca/news/edmonton/2018/01/16/alberta-mla-dave-schneider-sorry-for-saying-indigenous-people-disengaged.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/41df44eb-e42b-46b2-b0ea-afe8fa52e7ab";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Jan 2018 14:05:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:346:"<img src="http://www.metronews.ca/content/dam/thestar/uploads/2018/1/17/dave.jpg.size.xxlarge.original.jpg"><br/>"In no manner are these statements a proper or respectful representation of all constituents in the Cardston-Siksika area," said Chief Tony Alexis of the Alexis Nakota Sioux Nation, who also called for Dave Schneider to make amends. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:46:"
+            Dean Bennett - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:96:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/17/dave.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:95:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/17/dave.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:166:"Dave Schneider, the United Conservative member for the southern Alberta riding of Little Bow, apologized on Twitter for comments he made to media in his constituency.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:91:"'An attitude out of the 1950s': Alberta MLA reproached for comments about Indigenous people";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:31:"Legislative Assembly of Alberta";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:12;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"Councillors ponder merits of LRT vs BRT for Whyte Avenue";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.metronews.ca/news/edmonton/2018/01/15/councillors-ponder-merits-of-lrt-vs-brt-for-whyte-avenue.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"708f1983-280d-4f6f-b45b-f3a95fda1641";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 15 Jan 2018 21:50:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:322:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/15/councillors-ponder-merits-of-lrt-vs-brt-for-whyte-avenue/story-320673-420700-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Bus Rapid Transit would be a temporary solution for the busy thoroughfare, but one councillor says it only 'look good on paper'. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:176:"http://www.metronews.ca/content/dam/thestar/2018/01/15/councillors-ponder-merits-of-lrt-vs-brt-for-whyte-avenue/story-320673-420700-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:175:"http://www.metronews.ca/content/dam/thestar/2018/01/15/councillors-ponder-merits-of-lrt-vs-brt-for-whyte-avenue/story-320673-420700-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:105:"A report presented to council suggests preferred connection of the route will be located on Whyte Avenue.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"Councillors ponder merits of LRT vs BRT for Whyte Avenue";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:18:"Edmonton Freelance";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"Edmonton Freelance";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:13;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Alberta politicians back in the house on March 8 for spring sitting, new budget";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:132:"http://www.metronews.ca/news/edmonton/2018/01/15/alberta-politicians-back-in-the-house-on-march-8-for-spring-sitting-new-budget.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/64573d6f-978c-4565-b947-2855f9bb364c";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 15 Jan 2018 17:57:05 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:193:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/15/alberta-politicians-back-in-the-house-on-march-8-for-spring-sitting-new-budget/CPT135448986.jpg.size.xxlarge.original.jpg"><br/>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:39:"
+            Staff - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:176:"http://www.metronews.ca/content/dam/thestar/2018/01/15/alberta-politicians-back-in-the-house-on-march-8-for-spring-sitting-new-budget/CPT135448986.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:175:"http://www.metronews.ca/content/dam/thestar/2018/01/15/alberta-politicians-back-in-the-house-on-march-8-for-spring-sitting-new-budget/CPT135448986.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:249:"Alberta Premier Rachel Notley is pictured in Edmonton on Monday, December 18, 2017. The new legislature calendar is out for 2018, and Alberta politicians will be back in the house for the spring sitting on March 8th. THE CANADIAN PRESS/Jason Franson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Alberta politicians back in the house on March 8 for spring sitting, new budget";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:14;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:95:"A clean plate? Alberta, Sask., officials to meet on licence issue, but can&#039;t agree on site";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:131:"http://www.metronews.ca/news/edmonton/2018/01/15/alberta-saskatchewan-to-meet-on-licence-plate-dispute-but-can-t-agree-on-site.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:117:"http://syndication.thecanadianpress.com/rss/5845b1fe-75d0-4549-a8fe-032a81b54313/292d2f37-773e-45a8-bdaa-d702c1cf8294";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 15 Jan 2018 16:12:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:319:"<img src="http://www.metronews.ca/content/dam/thestar/uploads/2018/1/15/plantes.jpg.size.xxlarge.original.jpg"><br/>Alberta's Economic Development Minister says if Saskatchewan doesn't reverse its plate ban by next Monday, the issue will go to arbitration— and could lead to a $5M fine against Brad Wall's government.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:46:"
+            Dean Bennett - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:99:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/15/plantes.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:98:"http://www.metronews.ca/content/dam/thestar/uploads/2018/1/15/plantes.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:96:"Alberta and Saskatchewan have a date for their joint meeting to resolve a licence plate dispute.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:90:"A clean plate? Alberta, Sask., officials to meet on licence issue, but can't agree on site";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:32:"THE CANADIAN PRESS/Jason Franson";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:15;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Edmonton restaurant first standalone diner to get Tesla charging stations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:140:"http://www.metronews.ca/news/edmonton/2018/01/15/south-edmonton-restaurant-becomes-first-in-the-city-to-install-tesla-charging-stations.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"bf73e159-c49d-4be7-a119-aca445b2c909";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 15 Jan 2018 13:49:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:293:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/15/edmonton-restaurant-first-standalone-diner-to-get-tesla-charging-stations/story-320598-420255-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Vaticano Cucina has three charging stations installed with a power capacity of 13kW";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:193:"http://www.metronews.ca/content/dam/thestar/2018/01/15/edmonton-restaurant-first-standalone-diner-to-get-tesla-charging-stations/story-320598-420255-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:192:"http://www.metronews.ca/content/dam/thestar/2018/01/15/edmonton-restaurant-first-standalone-diner-to-get-tesla-charging-stations/story-320598-420255-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:42:"Three harging stations at Vaticano Cucina.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Edmonton restaurant first standalone diner to get Tesla charging stations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:16:"Metro Web Upload";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:16:"Metro Web Upload";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:16;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"Cool running: Winter race director says it&#039;s a great time to run in the river valley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:137:"http://www.metronews.ca/news/edmonton/2018/01/14/cool-running-winter-race-director-says-it-s-a-great-time-to-run-in-the-river-valley.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"40f4a165-ae03-4448-9232-31fbed31941c";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 14 Jan 2018 19:59:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:320:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/14/cool-running-winter-race-director-says-it-s-a-great-time-to-run-in-the-river-valley/story-320498-419677-image-rendered.jpg.size.xxlarge.original.jpg"><br/>'We have to take advantage of what we’ve got, and that’s the cold. It makes us really strong.”";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kevin Maimann - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:203:"http://www.metronews.ca/content/dam/thestar/2018/01/14/cool-running-winter-race-director-says-it-s-a-great-time-to-run-in-the-river-valley/story-320498-419677-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:202:"http://www.metronews.ca/content/dam/thestar/2018/01/14/cool-running-winter-race-director-says-it-s-a-great-time-to-run-in-the-river-valley/story-320498-419677-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:87:"Todd Savard, course director of the River Valley Revenge winter run, out on the trails.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"Cool running: Winter race director says it's a great time to run in the river valley";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:8:"Supplied";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Steven Csorba";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:8:"Supplied";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:17;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"New Edmonton local delivery company promises better prices on two wheels";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:126:"http://www.metronews.ca/news/edmonton/2018/01/14/new-edmonton-local-delivery-company-promises-better-prices-on-two-wheels.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"3be46aaf-afda-43ae-b739-273ea55ecb01";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 14 Jan 2018 19:38:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:337:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/14/new-edmonton-local-delivery-company-promises-better-prices-on-two-wheels/story-320505-419712-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Champ City Courier Collective will deliver anything from food, dry cleaning, forgotten USB sticks, to assignments at a flat-rate";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:192:"http://www.metronews.ca/content/dam/thestar/2018/01/14/new-edmonton-local-delivery-company-promises-better-prices-on-two-wheels/story-320505-419712-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:191:"http://www.metronews.ca/content/dam/thestar/2018/01/14/new-edmonton-local-delivery-company-promises-better-prices-on-two-wheels/story-320505-419712-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:114:"Members of Champ City Courier Collective. (L - R) Josh Marcellin <br />
+
+Terris Glab, Dan Corredor, Calvin Bowers.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"New Edmonton local delivery company promises better prices on two wheels";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:8:"Supplied";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:18;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"How one Edmontonian is beating the carbon tax (and what he could teach you)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:127:"http://www.metronews.ca/news/edmonton/2018/01/14/how-one-edmontonian-is-beating-the-carbon-tax-and-what-he-could-teach-you.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"e243c543-793c-4126-98ee-74bb11d98602";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 14 Jan 2018 19:35:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:314:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/14/how-one-edmontonian-is-beating-the-carbon-tax-and-what-he-could-teach-you/story-320570-420094-image-rendered.jpg.size.xxlarge.original.jpg"><br/>Rob Kube has managed to bring his electricity bill down to zero with a few small tweaks to his household";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:36:"
+            Lucy Haines - For Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:193:"http://www.metronews.ca/content/dam/thestar/2018/01/14/how-one-edmontonian-is-beating-the-carbon-tax-and-what-he-could-teach-you/story-320570-420094-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:192:"http://www.metronews.ca/content/dam/thestar/2018/01/14/how-one-edmontonian-is-beating-the-carbon-tax-and-what-he-could-teach-you/story-320570-420094-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:188:"Rob Kube is a U of A Professor whose home is running on 100% green energy. Kube installed energy monitors in every room of his house to pinpoint what appliances were using the most energy.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"How one Edmontonian is beating the carbon tax (and what he could teach you)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:9:"For Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Kevin Tuong";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"For Metro";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:19;a:6:{s:4:"data";s:218:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+        
+        
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"Five Things to do in Edmonton this weekend";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.metronews.ca/news/edmonton/2018/01/12/to-do-this-weekend.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"aad3d5be-9a89-4eea-9c5e-5dd45d371403";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 12 Jan 2018 14:53:00 EST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:247:"<img src="http://www.metronews.ca/content/dam/thestar/2018/01/12/to-do-this-weekend/story-320461-419465-image-rendered.jpg.size.xxlarge.original.jpg"><br/>From outdoorsy, fun winter events to bikes, here is how Edmontonians can spend their weekend";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:34:"
+            Kashmala Fida - Metro";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:103:"
+	              
+	              
+	              
+  				  
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:138:"http://www.metronews.ca/content/dam/thestar/2018/01/12/to-do-this-weekend/story-320461-419465-image-rendered.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:137:"http://www.metronews.ca/content/dam/thestar/2018/01/12/to-do-this-weekend/story-320461-419465-image-rendered.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:102:"STOCK IMAGE Paintbrush, canvas, painting, brushstroke, art, painting.
+
+
+ Uploaded by: Collins, Anthony";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"Five Things to do in Edmonton this weekend";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:20:"Torstar news service";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:6:"SYSTEM";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:20:"Torstar news service";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:56:"http://www.metronews.ca/feeds.articles.news.edmonton.rss";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:17:{s:12:"content-type";s:22:"text/xml;charset=utf-8";s:14:"content-length";s:4:"6811";s:10:"connection";s:10:"keep-alive";s:13:"accept-ranges";s:5:"bytes";s:13:"cache-control";s:38:"max-age=1200, private, must-revalidate";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Fri, 19 Jan 2018 05:53:44 GMT";s:4:"etag";s:31:"W/"30083fad-9279-5631ab417b09b"";s:7:"expires";s:29:"Fri, 19 Jan 2018 06:13:44 GMT";s:13:"last-modified";s:29:"Fri, 19 Jan 2018 05:53:45 GMT";s:6:"server";s:22:"Apache/2.2.34 (Amazon)";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:3:"age";s:3:"377";s:4:"vary";s:15:"Accept-Encoding";s:7:"x-cache";s:19:"Hit from cloudfront";s:3:"via";s:64:"1.1 5302a26a4ce3d0863fddf10b3dbc2c77.cloudfront.net (CloudFront)";s:11:"x-amz-cf-id";s:56:"JdTizgzDTDabEXMZ0Vds15DjmO9oCentxg5xMaMBrlYWmTpjWjRN9A==";}s:5:"build";s:14:"20171112020334";}

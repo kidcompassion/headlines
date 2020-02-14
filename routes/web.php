@@ -16,49 +16,77 @@ Route::get('/', function () {
 });
 
 
-//Route::get('/all-feeds', 'RssController@index');
 
-Route::get('/bookmarks', function () {
-    return view('bookmarked-items');
-});
+/*
+|
+| Api Route Endpoints
+|
+*/
 
-Route::get('/add-feeds', function () {
-    return view('add-feeds');
-});
+Route::get('ej-feed', 'EJController@ejapi');
 
+Route::get('sun-feed', 'SunController@sunapi');
 
-Route::group(['prefix' => 'api/v1'], function(){
+Route::get('metro-feed', 'MetroController@metroapi');
 
-    Route::resource('all-feeds', 'RssController');
-    
-});
+Route::get('global-feed', 'GlobalController@globalapi');
+
+Route::get('aptn-feed', 'AptnController@aptnapi');
+
+Route::get('cbc-feed', 'CbcController@cbcapi');
+
+Route::get('ctv-feed', 'CtvController@ctvapi');
+
+Route::get('bookmarks-feed', 'BookmarkController@bookmarkapi');
+
 
 
 
 /* 
-* Publication routes
+|
+|Publication routes
+|`
 */
 
-Route::get('/edmonton-journal', function () {
-    return view('edmonton-journal');
-});
+Route::get('edmonton-journal', 'EJController@index');
 
-Route::get('/edmonton-sun', function () {
-    return view('edmonton-sun');
-});
+Route::post('edmonton-journal', 'EJController@insert');
 
-Route::get('/cbc', function () {
-    return view('cbc');
-});
 
-Route::get('/global', function () {
-    return view('global');
-});
+Route::get('edmonton-sun', 'SunController@index');
 
-Route::get('/ctv', function () {
-    return view('ctv');
-});
+Route::post('edmonton-sun', 'SunController@insert');
 
-Route::get('/aptn', function () {
-    return view('aptn');
-});
+
+Route::get('cbc-edmonton', 'CbcController@index');
+
+Route::post('cbc-edmonton', 'CbcController@insert');
+
+
+Route::get('ctv-edmonton', 'CtvController@index');
+
+Route::post('ctv-edmonton', 'CtvController@insert');
+
+
+Route::get('global-edmonton', 'GlobalController@index');
+
+Route::post('global-edmonton', 'GlobalController@insert');
+
+
+Route::get('metro-edmonton', 'MetroController@index');
+
+Route::post('metro-edmonton', 'MetroController@insert');
+
+
+Route::get('aptn', 'AptnController@index');
+
+Route::post('aptn', 'AptnController@insert');
+
+
+Route::post('add-bookmark', 'BookmarkController@index');
+
+//Route::post('clear-all', 'ClearAllController@delete');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
